@@ -596,7 +596,6 @@ hr{
         width: 50%;
         transform: translateX(100%);
         transition: all .3s ease;
-        overflow: hidden;
     }
 
     .sidebar.active{
