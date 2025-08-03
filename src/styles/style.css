@@ -42,7 +42,6 @@ body{
     display: block;
     background: var(--bg-header-footer);
     position: relative;
-    overflow: hidden;
 }
 
 .header-container{
@@ -597,6 +596,7 @@ hr{
         width: 50%;
         transform: translateX(100%);
         transition: all .3s ease;
+        overflow: hidden;
     }
 
     .sidebar.active{
